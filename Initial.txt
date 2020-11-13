@@ -1,4 +1,4 @@
 Initial
 Feature1
 Feature3
-Feuature2
+Feature2
