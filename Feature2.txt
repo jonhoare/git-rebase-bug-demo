@@ -1,3 +1,4 @@
 Initial
 Make some changes to feature 2
 Added a bug by mistake
+Some extra changes to feature 2 that relate to line 3
